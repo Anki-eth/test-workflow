@@ -1,4 +1,5 @@
 # test-workflow
+[![DOI](https://zenodo.org/badge/213928793.svg)](https://zenodo.org/badge/latestdoi/213928793)
 
 ## Requirements 
 
